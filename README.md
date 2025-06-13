@@ -1,0 +1,1 @@
+fullstack lareval + angular
